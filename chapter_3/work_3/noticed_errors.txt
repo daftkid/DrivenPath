@@ -1,0 +1,2 @@
+1. Airflow Docker compose download link does not work (curl command return 404). Used Airflow ver. 2.10.4 instead in
+the Dockerfile and the curl command

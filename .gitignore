@@ -11,3 +11,5 @@ producer_package/
 *.iml
 .idea
 **/.DS_Store
+**/logs
+**/dbt/target
